@@ -1,4 +1,4 @@
-# PastryDHT
+# PASTRY P2P 
 Implemented Pastry Algorithm using Distributed Hash Table, as discussed in the class by Prof. Vinay J. Riberio
 
 How to run:
